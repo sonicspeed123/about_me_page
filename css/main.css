@@ -1,0 +1,22 @@
+.bg{
+	background: url("../images/background.jpg") no-repeat center center fixed;
+	background-size: cover;
+	height: 75vh;
+}
+.intro{
+	font-size: 5em;
+	padding-top: 25vh;
+}
+.intro-text{
+	background-color: rgba(0,0,0,.5);
+	max-width: 200px;
+}
+.action-icon{
+	margin-top: 25px;
+}
+.side-section{
+	height: 100vh;
+}
+.half{
+	height: 50vh;
+}
